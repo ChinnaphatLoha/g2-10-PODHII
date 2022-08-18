@@ -34,5 +34,5 @@
 &nbsp
 <img src="img/microsoft-team.png" align="center" alt="microsoft-team" height="25" width="25">
 &nbsp
-<a href="mailto:chinnaphat.loha@kmutt.ac.th" title="Leave Your Microsoft Email Here">Chinnaphat Lohasangsuwan</a>
+<a href="https://mail.google.com/mail/?to=chinnaphat.loha@kmutt.ac.th&bcc=chinnaphat.loha@kmutt.ac.th&subject=Chat with me in Team#compose" title="Leave Your Microsoft Email Here">Chinnaphat Lohasangsuwan</a>
 </p>
