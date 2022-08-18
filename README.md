@@ -10,7 +10,7 @@
 ---
 
 <br>
-<h3 align="center" id="ImAim">CHINAPHAT LOHASANGSUWAN</h3>
+<h3 align="center" id="ImAim">CHINNAPHAT LOHASANGSUWAN</h3>
 <h4 align="center">🐱 IM-AIM 🐱</h4> <br>
 <p align="center">
   <img src="img/ImAim.jpg" alt="ImAim pic" width="300" height="300" align="center">
@@ -26,6 +26,8 @@
 >   - Recommended Book : **21 Lessons for the 21<sup>st</sup> Century**
 >
 > - 🎯 Goals : 🧑‍💻 **Full-stack Developer in 4 years /** 🏆 **Get grade A for Scholarship**
+>
+> - **Test**
 
 <br>
 <h3 align="left">Connect with me:</h3>
