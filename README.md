@@ -36,7 +36,7 @@
 &nbsp
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chinnaphat.loha@kmutt.ac.th&su=Chat with me in Team&body=Your Microsoft email goes here" title="Leave Your Microsoft Email Here">Chinnaphat Lohasangsuwan</a>
 </p>
-<br><br>
+<br>
 
 ---
 
