@@ -28,11 +28,11 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="img/instagram.png" alt="instagram" height="25" width="25">
+<img src="img/instagram.png" align="center" alt="instagram" height="25" width="25">
 &nbsp
 <a href="https://instagram.com/aimliveonce">aimliveonce</a>
 &nbsp
-<img src="img/microsoft-team.png" alt="microsoft-team" height="25" width="25">
+<img src="img/microsoft-team.png" align="center" alt="microsoft-team" height="25" width="25">
 &nbsp
 <a href="mailto:chinnaphat.loha@kmutt.ac.th" title="Leave Your Microsoft Email Here">Chinnaphat Lohasangsuwan</a>
 </p>
