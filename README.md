@@ -10,7 +10,7 @@
 ---
 
 <br>
-<h3 align="center" id="ImAim">CHINNAPHAT LOHASANGSUWAN</h3>
+<h3 align="center" id="ImAim">CHINAPHAT LOHASANGSUWAN</h3>
 <h4 align="center">🐱 IM-AIM 🐱</h4> <br>
 <p align="center">
   <img src="img/ImAim.jpg" alt="ImAim pic" width="300" height="300" align="center">
