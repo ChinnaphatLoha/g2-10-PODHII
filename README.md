@@ -26,8 +26,6 @@
 >   - Recommended Book : **21 Lessons for the 21<sup>st</sup> Century**
 >
 > - 🎯 Goals : 🧑‍💻 **Full-stack Developer in 4 years /** 🏆 **Get grade A for Scholarship**
->
-> - **Test**
 
 <br>
 <h3 align="left">Connect with me:</h3>
