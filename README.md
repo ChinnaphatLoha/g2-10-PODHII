@@ -29,5 +29,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="aimliveonce" height="25" width="25" />
-&nbsp <a href="https://instagram.com/aimliveonce" target="blank">aimliveonce</a>
+&nbsp <a href="img/instagram.png" target="blank">aimliveonce</a>
 </p>
