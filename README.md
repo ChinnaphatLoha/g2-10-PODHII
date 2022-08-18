@@ -1,7 +1,14 @@
 <h1 align="center">✨ We are TeamName ✨</h1>
 <h3 align="center">This is for ➡️ INT100 IT Fund.</h3> <br>
 
-- We did the interviews for each other in the group. Let's know more about us! <br><br><br>
+- We did the interviews for each other in the group. Let's know more about us!
+<br>
+
+No. | Member in TeamName (G2-10) | GithubID | Microsoft Email | Interviewer
+:---:|:---|:---|:---|:---:
+1 | [Chinnaphat Lohasangsuwan](#ImAim) | ChinnaphatLoha | **chinnaphat.loha@kmutt.ac.th** | No. 2
+
+<br><br>
 
 <span align="left">
    <a href="#ImAim"><img src="img/ImAim-modified.png" alt="ImAim pic" width="150" height="150"></a> &nbsp&nbsp&nbsp&nbsp
