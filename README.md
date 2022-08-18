@@ -29,5 +29,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="center" src="img/instagram.png" alt="aimliveonce" height="25" width="25" />
-&nbsp <a href="[img/instagram.png](https://instagram.com/aimliveonce)" target="blank">aimliveonce</a>
+&nbsp <a href="https://instagram.com/aimliveonce" target="blank">aimliveonce</a>
 </p>
