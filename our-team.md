@@ -120,7 +120,7 @@ No. | Member in TeamName (G2-10) | Github Username | Microsoft Email | Interview
 >
 > - 🐱 Favorite Pet : 🐱 **แมว**
 >
-> - 🍽 Favorite Food : 🥘 **เนื้อย่าง** , **ชาบู**
+> - 🍽 Favorite Food : 🥘 **เนื้อย่าง** , 🍲**ชาบู**
 > 
 > - 🎮 Favorite Game : **Path of Exile** , **Valorant** , **Escape From Tarkov**
 > 
@@ -199,7 +199,7 @@ lolyou555
 &nbsp
 </p>
 
-### Tel. : 0615673869
+### 📲 Tel. : 0615673869
 
 <br>
 
@@ -208,32 +208,50 @@ lolyou555
 <!---ImAim_info--->
 <br>
 <!---ชื่อและรูป--->
-<h3 align="center" id="ImAim">NAME LASTNAME</h3>
-<h4 align="center">emoji NICKNAME emoji</h4> <br>
+<h3 align="center" id="ImAim">Chinnaphat Lohasangsuwan</h3>
+<h4 align="center">(ชินภัทร โลหแสงสุวรรณ)</h4>
+<h4 align="center">💖 ImAim 💖</h4> <br>
 <p align="center">
-  <img src="" alt="" width="300" height="300" align="center">
+  <img src="img/ImAim-modified.png" alt="" width="300" height="300" align="center">
 </p> <br>
 <!---ใส่อะไรก็ได้--->
-<h4 align="center">Some text</h4>
+<h4 align="center"><em> ୨⎯ "Do what you can and, keep moving forward" ⎯୧</em></h4>
 <br>
 
 <!---บล็อคข้อมูล เพิ่มตามที่สัมภาษณ์เพื่อน--->
-> ## This is Nickname ⭐
-> - 🏠 Hometown : <a href="ลิ้งก์กูเกิ้ลแมพ ไม่ใส่ก็ได้นะ">***@จังหวัด***</a>
+> ## This is ImAim 👨🏻‍💻
+> - 🏠 Hometown : <a href="https://goo.gl/maps/kBUjBY84Vc1HVz3E8">***@กรุงเทพมหานคร บางบอน***</a> 🚌
+> 
+> - 🩸 Blood type : <em>B</em>
+> 
+> - 🎉 Birth date : **9<sup>th</sup> December 2003**
+>  
+> - 💖 Hobbies : อ่านหนังสือสารคดี <em>(non-fiction)</em> | เรียนเกี่ยวกับ **Website Development** ㋡
+> 
+> - 🤍 Favorites ⤵️⤵️⤵️
+>> 1. 🐶 **Pets** : <em> <a href="https://www.hospetal.co.th/content/4294/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%89%E0%B8%82%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%A7%E0%B8%A7%E0%B8%A7%E0%B8%A7"> หมาพันธุ์คอร์กี้ </a> </em>
+>> 2. 🍖 **Foods** : <em>Full Course meal</em>
+>> 3. 🎀 **Colors** : <em>Pink shades</em>
+>> 4. 🎮 **Games** : <em> <a href="https://store.steampowered.com/app/846770/DYSMANTLE/"> DYSMANTLE </a> |  <a href="https://store.steampowered.com/app/690830/Foundation/"> FOUNDATION </a> | <a href="https://www.minecraft.net/en-us/get-minecraft"> MINECRAFT </a></em>
+>> 5. 🎬 **Movies** : <em> Marvel Studios | Sci-fi, Life Stories | Korean dramas | Romantic Japanese Animations, Shounen Animes </em>
 >
-> - 💖 Hobbies : อิโมจิ **งานอดิเรก**
->
->   - เพิ่มเติม : **เพิ่มเติมเกี่ยวกับงานอดิเรก**
+> - 👨‍🎓 Jobs after Graduated : **Full Stack Development for EdTech.** | Continue to study <em>**Engineerings**</em>
+> 
+> - 🌟 Dreams : ทำงานด้านพัฒนาการศึกษา | ใช้ชีวิตแบบที่ได้เรียนเรื่องที่สนใจ แล้วนำความรู้ไปแก้ปัญหาต่างๆ
 
 
 <br>
 <!---Contact เพิ่มตามที่สัมภาษณ์เพื่อน--->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : 👍🏻</h3>
 <p align="left">
 <img src="img/instagram.png" align="center" alt="instagram" height="25" width="25">
 &nbsp
-<a href="https://instagram.com/ใส่username">ใส่username</a>
+<a href="https://instagram.com/aimliveonce">aimliveonce</a>
 &nbsp
+<img src="img/line.png" align="center" alt="Line" height="25" width="25">
+&nbsp
+<a href="https://line.me/ti/p/LrkbUZjO5b">Add Friend</a>
+<h3>📞: 098-275-9863</h3>
 </p>
 <br>
 
@@ -242,23 +260,41 @@ lolyou555
 <!---Oat_info--->
 <br>
 <!---ชื่อและรูป--->
-<h3 align="center" id="Oat">NAME LASTNAME</h3>
-<h4 align="center">emoji NICKNAME emoji</h4> <br>
+<h3 align="center" id="Oat">Chanatip Insoom</h3>
+<h4 align="center">ชนาธิป อินทร์สุ่ม</h4>
+<h4 align="center">👐 โอ้ต 👐</h4> <br>
 <p align="center">
-  <img src="" alt="" width="300" height="300" align="center">
+  <img src="img/oat.png" alt="" width="300" height="300" align="center">
 </p> <br>
 <!---ใส่อะไรก็ได้--->
-<h4 align="center">Test babababababababababaa</h4>
+<h4 align="center">Your only limit is your mind</h4>
 <br>
 
 <!---บล็อคข้อมูล เพิ่มตามที่สัมภาษณ์เพื่อน--->
-> ## This is Nickname ⭐
-> - 🏠 Hometown : <a href="ลิ้งก์กูเกิ้ลแมพ ไม่ใส่ก็ได้นะ">***@จังหวัด***</a>
+> ## This is Oat ✨
+> - 🏠 Hometown : <a href="https://goo.gl/maps/ecoJFZbqDVb2aAfA8">***@พิษณุโลก***</a>
 >
-> - 💖 Hobbies : อิโมจิ **งานอดิเรก**
+> - 🧑 age :  **19 years old**
 >
->   - เพิ่มเติม : **เพิ่มเติมเกี่ยวกับงานอดิเรก**
-
+> - 😃 birth : **29/12/2545**
+>
+> - 🩸 blood : **B**
+>
+> - ⚽ hobby : 🎮 **เล่นเกม** | 🎥 **ดูหนัง** | 🎶 **ฟังเพลง** | 📚 **อ่านนิยาย**
+>
+> - 🌈 favourite colour : 💙 **น้ำเงิน**
+> 
+> - 🍲 favourite food : **เนื้อทอด**
+> 
+> - 🕹️ favorite game : **valorant**
+> 
+> - 📽️ favourite movie : **ผีชีวะ**
+> 
+> - 🐾 favourite pet : 🐕 **หมา** | 🐈 **แมว**
+> 
+> - 🎓 จบ IT อยากทำงานด้านไหน  : **Web Dev**
+> 
+> - 💭 ความฝัน : **อยู่บ้านเล่นเกมแล้วรวย**
 
 <br>
 <!---Contact เพิ่มตามที่สัมภาษณ์เพื่อน--->
@@ -266,8 +302,12 @@ lolyou555
 <p align="left">
 <img src="img/instagram.png" align="center" alt="instagram" height="25" width="25">
 &nbsp
-<a href="https://instagram.com/chaaanatip">ใส่username</a>
+<a href="https://instagram.com/chaaanatip">chaaanatip</a>
 &nbsp
+<img src="img/line.png" align="center" alt="Line" height="25" width="25">
+&nbsp
+<a href="https://line.me/ti/p/kconEhDWLx">chanatip</a>
+<h3>📱: 0991361136</h3>
 </p>
 <br>
 
@@ -276,22 +316,44 @@ lolyou555
 <!---Hutch_info--->
 <br>
 <!---ชื่อและรูป--->
-<h3 align="center" id="Hutch">NAME LASTNAME</h3>
-<h4 align="center">emoji NICKNAME emoji</h4> <br>
+<h3 align="center" id="Hutch">Varittorn Siriwatcharakul</h3>
+<h4 align="center">🔥 Hutch 🔥</h4> <br>
 <p align="center">
-  <img src="" alt="" width="300" height="300" align="center">
+  <img src="img/Hutch.png" alt="" width="300" height="300" align="center">
 </p> <br>
 <!---ใส่อะไรก็ได้--->
-<h4 align="center">Some text</h4>
+<h4 align="center">Something never stay for long</h4>
 <br>
 
 <!---บล็อคข้อมูล เพิ่มตามที่สัมภาษณ์เพื่อน--->
-> ## This is Nickname ⭐
-> - 🏠 Hometown : <a href="ลิ้งก์กูเกิ้ลแมพ ไม่ใส่ก็ได้นะ">***@จังหวัด***</a>
+> ## This is Hutch ⭐
+> - 💗 Name : **นายวริทธิ์ธร สิริวิชระกุล**
+> 
+> - ✨ Age : **19 Years old**
+> 
+> - 🎉 Date of Birth : **20/08/2546**
+> 
+> - 🩸 Blood Type : **B**
+> 
+> - 🏠 Hometown : <a href="https://maps.app.goo.gl/mqiUkykdQKcetwmb9">***@สมุทรปราการ***</a>
+> 
+> - 🌈 Favorite Color : 💚 **เขียว**
 >
-> - 💖 Hobbies : อิโมจิ **งานอดิเรก**
+> - 🐱 Favorite Pet : 🐱 **แมว**
 >
->   - เพิ่มเติม : **เพิ่มเติมเกี่ยวกับงานอดิเรก**
+> - 🍽 Favorite Food : 🍲 **บะหมี่**
+> 
+> - 🎮 Favorite Game : **ROV**
+> 
+> - 📽 Favorite Type of Movie : **Kung Fu Panda**
+> 
+> - 💖 Hobbies : 🎮 **เล่นเกม** , **อ่านหนังสือ**, **นอน**  
+>
+> - 🔥 Motto : **"Something never stay for long"**
+>
+> - 🛏 Dream : **อยากรวยมีตัง** 
+>
+> - 🎓 After Graduate : **Programmer**
 
 
 <br>
@@ -300,7 +362,12 @@ lolyou555
 <p align="left">
 <img src="img/instagram.png" align="center" alt="instagram" height="25" width="25">
 &nbsp
-<a href="https://instagram.com/ใส่username">ใส่username</a>
+<a href="https://instagram.com/hutchzly">hutchzly</a>
+&nbsp
+<img src="img/line.png" align="center" alt="line" height="25" width="25">
+&nbsp
+<a href="https://line.me/ti/p/6facruSRsa">-caramel-</a>
 &nbsp
 </p>
+📲 Tel. : 0626434165
 <br>
