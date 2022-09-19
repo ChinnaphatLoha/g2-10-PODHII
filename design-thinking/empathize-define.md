@@ -5,7 +5,9 @@
 <!--Questions asked during the interview-->
 
 <!--Summary of interview as What-how-why table-->
-
+| What | How | Why |
+|:---:|:---:|:---:|
+| แดมไปทานข้าวโดยที่ไม่รู้ว่าจะกินที่ไหน | ครอบครัวมารับไปทานข้าว ขับรถมาเรื่อยๆจนเข้าเขตจังหวัดสมุทรปราการ และได้เจอร้านอาหารแถวนั้น | เลือกร้านอาหารนี้เพราะบรรยากาศและบริการดี |
 <!--What you have inferred as Think-Feel-->
 
 <!--Journey map from class (ratio 11/14)-->
