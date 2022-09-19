@@ -7,6 +7,18 @@
 <!--Summary of interview as What-how-why table-->
 
 <!--What you have inferred as Think-Feel-->
+<h1>What you have inferred as Think-Feel</h1>
+
+### THINK
+<p>
+ &emsp; • A คิดว่าการบริการร้านอาหารที่นี่ดีบริการเร็วและบรรยากาศดีเหมาะพาครอบครัวมาทานอาหาร
+</p>
+  
+### FEEL
+<p>
+ &emsp; • A รู้สึกมีความสุขเพราะครอบครัวรับพาไปกินข้าวที่ร้านอาหาร รวมกับร้านที่บรรยากาศดีและอาหารที่อร่อย การบริการของพนักงานที่ไม่รอนานจนเกินไปทำให้ A มีความประทับใจการบริการของร้านนี้
+</p>
+
 
 <!--Journey map from class (ratio 11/14)-->
 <p align="center">
