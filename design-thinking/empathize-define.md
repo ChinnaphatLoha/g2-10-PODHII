@@ -10,7 +10,7 @@
 
 <!--Journey map from class (ratio 11/14)-->
 <p align="center">
-  <img src="img/journeymap-final.png" alt="Journey map from class" width="800px" height"450px">
+  <img src="img/journeymap-final.png" alt="Journey map from class" width="840px" height"440px">
 </p>
 <!--Summary/lessons learned from in class presentation and feedback (I like, I wish)-->
 
