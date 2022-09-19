@@ -7,7 +7,7 @@
 <!--Summary of interview as What-how-why table-->
 
 <!--What you have inferred as Think-Feel-->
-<h1>What you have inferred as Think-Feel</h1>
+<h1>What you have inferred as Think-Feel 💙</h1>
 
 ### THINK
 <p>
