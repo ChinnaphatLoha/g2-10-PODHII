@@ -1,7 +1,7 @@
 <!--Header of the Project (h1)-->
-<h1 align="center">Header of the Project</h1>
+<h1 align="center">Design Thinking homework on Empahtize and Define</h1>
 <!--Name of the Story (h3)-->
-<h3 align="center"><a href="https://github.com/ChinnaphatLoha/g2-10-PODHII/issues/46#issue-1376804920">Name of the Story</a></h3><br>
+<h3 align="center"><a href="https://github.com/ChinnaphatLoha/g2-10-PODHII/issues/46#issue-1376804920">เหตุการณ์ทานข้าวในช่วงยุค CoVid-19</a></h3><br>
 <!--Questions asked during the interview-->
 
 <h2 align='center'>🎙️หัวข้อสัมภาษณ์🎙️</h2>
