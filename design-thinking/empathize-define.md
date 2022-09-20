@@ -48,7 +48,7 @@ __What__ | __How__ | __Why__ |
 <h4 align="center">👇 click an image to enlarge 👇</h4>
 <br>
 <p align="center">
-  <img src="img/Journey_map_origin.jpg" alt="Journey map from class" width="330px" height"420px">
+  <img src="img/journeymap-final.png" alt="Journey map from class" width="840px" height"440px">
 </p>
 
 ---
