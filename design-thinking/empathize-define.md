@@ -68,7 +68,9 @@ __What__ | __How__ | __Why__ |
 
 ---
 <!--Revised Journey map, What-how-why, and/or Think-Feel-->
-
+<p align="center">
+  <img src="img/journeymap-final.png" alt="Journey map from class" width="840px" height"440px">
+</p>
 <!--Identified insights-->
 
 <!--PoV statement-->
