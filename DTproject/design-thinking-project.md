@@ -20,14 +20,18 @@
 
 ## How we `Empathize`
 
-### Interview script
-> ### Example (question type)
->> -
->> -
->> -
+### 📄 Interview script
+### Example (question type)
+> -
+> -
+> -
 
-### Journey map ของคุณลุง
-<!--paste the journey map pic here-->
+## 🧓 A Grandpa's Journey map (65 years old)
+
+<br>
+<img src="img/journeymap-dt-final.png" alt="Grandpa's Journey map" width="880px" height"1600px">
+
+---
 
 ### What How Why
 <!--For PlengPop-->
