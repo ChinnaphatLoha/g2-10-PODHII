@@ -80,6 +80,26 @@
 <h1 align=center id=Define>🤔 Define Mode</h1>
 <br>
 
+> #### Why we have to define?
+> - เราคงไม่สามารถแก้ปัญหาได้ ถ้ายังไม่รู้ว่าปัญหาคืออะไร
+
+<br>
+
+## How we `Define`
+
+### User persona
+
+<br>
+<!--User persona image-->
+
+---
+
+### Identified insights
+<!--For Identify-->
+
+### PoV statement
+<!--For PoV-->
+
 ---
 
 <h1 align=center id=Ideate>💡 Ideate Mode</h1>
