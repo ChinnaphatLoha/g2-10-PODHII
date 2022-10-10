@@ -46,7 +46,7 @@
 <h1 align=center id=Define>🤔 Define Mode</h1>
 <br>
 
-## User-Persona 👨‍🦱
+## User-Persona👨‍🦱
 
 
 <img src="img/user-persona.png" alt="User Persona" width="1400px" height="700px">
