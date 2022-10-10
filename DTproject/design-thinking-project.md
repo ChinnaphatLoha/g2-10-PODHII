@@ -87,11 +87,11 @@
 
 ## How we `Define`
 
-### User persona
+### User persona 👇
 
 <br>
 <!--User persona image-->
-
+<img src="img/user-persona.png" alt="User Persona" width="1400px" height="700px">
 ---
 
 ### Identified insights
