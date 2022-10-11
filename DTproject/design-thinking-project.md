@@ -87,10 +87,12 @@
 
 ## How we `Define`
 
-### User persona
+### User persona 👇
 
 <br>
 <!--User persona image-->
+
+<img src="img/user-persona(1).png" alt="User Persona" width="1400px" height="700px">
 
 ---
 
