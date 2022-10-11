@@ -91,7 +91,7 @@
 
 <br>
 <!--User persona image-->
-<img src="img/user-persona.png" alt="User Persona" width="1400px" height="700px">
+<img src="img/user-persona(1).png" alt="User Persona" width="1400px" height="700px">
 ---
 
 ### Identified insights
