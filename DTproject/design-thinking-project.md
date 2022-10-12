@@ -92,7 +92,7 @@
 <br>
 <!--User persona image-->
 
-<img src="img/userpersona (1).png" alt="User Persona" width="1280px" height="650px">
+<img src="img/userpersona2.png" alt="User Persona" width="1170px" height="750px">
 
 ---
 
