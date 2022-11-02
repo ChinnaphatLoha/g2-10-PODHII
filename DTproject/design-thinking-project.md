@@ -155,7 +155,7 @@
 
 <br>
 
-<p align="left">
+<p>
 <img src="img/01Ideate.jpg" alt="1stIdea" width="240px" height="256px">
 <img src="img/02Ideate.jpg" alt="2ndIdea" width="240px" height="256px">
 <img src="img/03Ideate.jpg" alt="3rdIdea" width="240px" height="256px">
@@ -173,6 +173,38 @@
 <br>
 
 ## How we `do the prototypes`
+
+<img src="img/Prototype-final-ideas.jpg" alt="final-ideas">
+<br>
+
+---
+
+<p align=center>
+ <img src="img/Mini-bot.jpg" alt="mini-bot" width="240px" height="256px">
+ <img src="img/Security-belt.png" alt="security-belt" width="256px" height="256px">
+</p>
+
+<p align=center>
+ <img src="img/App-activities.jpg" alt="app-activities" width="178px" height="320px">
+ <img src="img/App-services.jpg" alt="app-services" width="178px" height="320px">
+ <img src="img/App-presentation.png" alt="app-presentation" width="576px" height="320px">
+</p>
+
+<p align=center>
+ <img src="img/Watch-main-menu-100.jpg" alt="main-menu-100" width="240px" height="240px">
+ <img src="img/Watch-main-menu-50.jpg" alt="main-menu-50" width="240px" height="240px">
+ <img src="img/Watch-main-menu-30.jpg" alt="main-menu-30" width="240px" height="240px">
+ <img src="img/Watch-main-menu-15.jpg" alt="main-menu-15" width="240px" height="240px">
+</p>
+
+
+<p align=center>
+ <img src="img/Watch-alert-menu-behind.jpg" alt="alert-menu-behind" width="240px" height="240px">
+ <img src="img/Watch-alert-menu-right.jpg" alt="alert-menu-right" width="240px" height="240px">
+ <img src="img/Watch-mini-bot-menu.jpg" alt="mini-bot-menu" width="240px" height="240px">
+ <img src="img/Watch-map-menu.jpg" alt="map-menu" width="240px" height="240px">
+</p>
+
 ---
 
 <h1 align=center id=Test>✅ Test Mode</h1>
@@ -184,6 +216,29 @@
 <br>
 
 ## How we `Test`
+
+### Feedbacks `From the users`
+
+<img src="img/Test-mode-feedback.jpg" alt="feedback-user">
+
+### Feedbacks `Inside Class`
+
+<p>
+ <img src="img/Class-feedback-like.jpg" alt="feedback-like" width="240px" height="312px">
+ <img src="img/Class-feedback-change.jpg" alt="feedback-change" width="240px" height="312px">
+ <img src="img/Class-feedback-idea.jpg" alt="feedback-idea" width="240px" height="312px">
+ <img src="img/Class-feedback-question.jpg" alt="feedback-question" width="240px" height="312px">
+</p>
+<br>
+
+## We considered these feedbacks and decided to make this first.
+> ### จาก 2 คำถามนี้ในคลาส
+> - ทำอย่างไรให้ Robot เข้าใจท่าทางที่จะสั่งใช้งาน ➡️ เริ่มจากโหมด `Empathize` โดยการสังเกตและศึกษาข้อมูลเพิ่ม เพื่อออกแบบการบังคับมือ
+> - ทำอย่างไรให้ สายคาดถุงลมนิรภัย รู้ว่าคุณลุงนั่งหรือล้ม ➡️ เริ่มจากโหมด `Prototype` โดยเพิ่มฟังก์ชันการรับรู้และวิเคราะห์ท่าทางของผู้สวมใส่
+> ### จากการทดสอบของผู้ใช้งาน
+> - เพิ่มฟังก์ชันการโทร เข้า-ออก ของนาฬิกา
+> - ทำฐานสำหรับวางมินิบอท ที่สามารถชาร์จแบตได้
+
 ---
 <!--Each team member's contribution in this assignment-->
 No. | Member in PODHII (G2-10) | Github Username | Contribution
