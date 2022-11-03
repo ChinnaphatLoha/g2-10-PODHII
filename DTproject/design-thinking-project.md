@@ -243,9 +243,9 @@
 <!--Each team member's contribution in this assignment-->
 No. | Member in PODHII (G2-10) | Github Username | Contribution
 :---:|:---|:---|:---
-1 | Sirapob Wuthithein | fluffyhugger | 
-2 | Saksaran Akramethawong | saksaran | 
-3 | Chanakan Phuatad | crocochon | 
-4 | Chinnaphat Lohasangsuwan | ChinnaphatLoha | 
-5 | Chanatip Insoom | chaaanatip | 
-6 | Varittorn Siriwatcharakul | hutchz72 | 
+1 | Sirapob Wuthithein | fluffyhugger | Research about elderly society, PoV Statement
+2 | Saksaran Akramethawong | saksaran | Journey map, Identified insights, Ideate
+3 | Chanakan Phuatad | crocochon | Interview Processes, What-How-Why Table, User Persona, Ideate, Prototypes, Feedback from users, Presentation
+4 | Chinnaphat Lohasangsuwan | ChinnaphatLoha | Say-Do-Think-Feel, Inferences as Think-Feel, Identified insights, Ideate, Prototypes, Presentation
+5 | Chanatip Insoom | chaaanatip | Say-Do-Think-Feel, PoV Statement, Ideate, Prototypes, Presentation
+6 | Varittorn Siriwatcharakul | hutchz72 | User Persona, Ideate, Prototypes, Presentation
