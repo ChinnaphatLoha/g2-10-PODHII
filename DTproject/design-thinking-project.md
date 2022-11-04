@@ -219,7 +219,7 @@
 
 ### We use `Story telling` to represent the solution
 
-<img src="Storyboard.jpg" alt="story-board">
+<img src="img/Storyboard.jpg" alt="story-board">
 
 ### Feedbacks `From the users`
 
