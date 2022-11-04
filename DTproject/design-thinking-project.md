@@ -217,6 +217,10 @@
 
 ## How we `Test`
 
+### We use `Story telling` to represent the solution
+
+<img src="Storyboard.jpg" alt="story-board">
+
 ### Feedbacks `From the users`
 
 <img src="img/Test-mode-feedback.jpg" alt="feedback-user">
