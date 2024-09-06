@@ -262,7 +262,7 @@ journey
   <img src="img/ImAim-modified.png" alt="" width="300" height="300" align="center">
 </p> <br>
 <!---ใส่อะไรก็ได้--->
-<h4 align="center"> <em> ୨⎯ "Do what you can end, keep moving forward" ⎯୧ </em></h4>
+<h4 align="center"> <em> ୨⎯ "Do what you can, and keep moving forward" ⎯୧ </em></h4>
 <br>
 
 <!---บล็อคข้อมูล เพิ่มตามที่สัมภาษณ์เพื่อน--->
